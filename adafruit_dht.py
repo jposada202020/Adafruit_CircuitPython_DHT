@@ -12,10 +12,10 @@ CircuitPython support for the DHT11 and DHT22 temperature and humidity devices.
 
 **Hardware:**
 
-* Adafruit `DHT22 temperature-humidity sensor + extras
+* `Adafruit DHT22 temperature-humidity sensor + extras
   <https://www.adafruit.com/product/385>`_ (Product ID: 385)
 
-* Adafruit `DHT11 basic temperature-humidity sensor + extras
+* `Adafruit DHT11 basic temperature-humidity sensor + extras
   <https://www.adafruit.com/product/386>`_ (Product ID: 386)
 
 
